@@ -47,4 +47,3 @@ directories = [Dir['./images/students/**/*.*'],
 # Check images now
 checker = ImageChecker.new 240, directories
 checker.ok?
-

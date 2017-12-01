@@ -79,4 +79,3 @@ You can instead participate in various chatrooms where you can ask both students
 
 1. Here are some links to some of project's chatroom:
    - [Google Code In](https://gitter.im/jboss-outreach/gci)
-
